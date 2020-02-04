@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Card",
+    "shortcode": "<!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"textColor\":\"very-light-gray\",\"backgroundColor\":\"very-dark-gray\",\"customFontSize\":40,\"className\":\"ticss-7203d2b1\",\"hasCustomCSS\":true,\"customCSS\":\".ticss-7203d2b1 {\\n  padding:5px 0 !important;\\n  max-width:90px;\\n    margin: -140px 0 0 0 !important;\\n  border-radius:0 0 8px 8px;\\n}\\n\"} -->\n<p style=\"font-size:40px\" class=\"has-text-color has-background has-text-align-center has-very-light-gray-color has-very-dark-gray-background-color ticss-7203d2b1\"><strong>01</strong></p>\n<!-- /wp:paragraph -->",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__340.jpg"
+  }
+]
